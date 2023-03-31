@@ -10,6 +10,8 @@ $W_{n+1} = W_n + b Z_n W_n - c W_n$
 
 ![](/assets/4.png)
 
-Źródło:
-[cke.gov.pl - strona](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2015/materialy-dodatkowe/materialy-dla-uczniow-i-nauczycieli/zbiory-zadan/)
-[cke.gov.pl - zbior zadan (pdf)](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Materialy/Zbiory_zadan/Matura_Zbi%C3%B3r_zada%C5%84_Informatyka.pdf)
+Źródła:
+
+[cke.gov.pl](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2015/materialy-dodatkowe/materialy-dla-uczniow-i-nauczycieli/zbiory-zadan/)
+
+[zbior zadan (pdf)](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Materialy/Zbiory_zadan/Matura_Zbi%C3%B3r_zada%C5%84_Informatyka.pdf)
