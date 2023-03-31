@@ -1,7 +1,8 @@
 Klasyczny model Lotki-Volterry opisuje interakcje między populacjami dwóch gatunków. Niech $W_n, Z_n$ oznaczają liczebność populacji odpowiednio wilków i zajęcy, gdzie jest numerem kolejnego miesiąca. Model definiują następujące dwa wzory:
 
-$$Z_{n+1} = Z_n + a Z_n - b Z_n W_n$$
-$$W_{n+1} = W_n + b Z_n W_n - c W_n$$
+$Z_{n+1} = Z_n + a Z_n - b Z_n W_n$
+
+$W_{n+1} = W_n + b Z_n W_n - c W_n$
 
 ![](/assets/2.png)
 
